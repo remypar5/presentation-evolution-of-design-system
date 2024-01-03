@@ -8,6 +8,10 @@ drawings:
 transition: slide-up
 mdc: true
 
+src: ./pages/meetup-info.md
+---
+
+---
 src: ./pages/introduction.md
 ---
 
