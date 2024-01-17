@@ -16,9 +16,11 @@ transition: slide-left
 
 <div>
 
-Consultant Design System Engineer @iO Consultancy
+Design System Engineer @iO Consultancy
 
 Design System Lead @Logius
+
+Woodworking Student
 </div>
 
 <!--
