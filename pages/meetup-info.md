@@ -58,3 +58,9 @@ In my time at Adyen, I actively contributed to projects that extensively utilize
 In a corporate organization like ANWB a team that is responsible for its design system faces a variety of challenges. Let's take a tour and meet these challenges and see what we do to make our stakeholders keep loving Poncho the Design System.
 
 -->
+
+---
+layout: none
+---
+
+<img src="/images/cow-vue.jpg" alt="">
